@@ -10,6 +10,9 @@ DroidX-UI v1.0 (Alpha One) Changelogs
 - Customize: Added battery related customizations.
 - Customize: Added Fonts and icons related customizations.
 - Added Advance reboot feature.
+- Customize: Added Network traffic indicator.
+- Added expandable volume panel.
+- Some Improvements and bug fixes in source.
 
 Note: Customize hub is keep on updating, So expect 
 the hub with full customizations in upcoming releases.
