@@ -11,6 +11,8 @@ DroidX-UI v1.0 (Alpha One) Changelogs
 - Customize: Added Fonts and icons related customizations.
 - Added Advance reboot feature.
 - Customize: Added Network traffic indicator.
+- Customize: Added toggle for combined network.
+- Seperate tile is added for data and wifi.
 - Added expandable volume panel.
 - Some Improvements and bug fixes in source.
 
