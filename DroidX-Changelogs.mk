@@ -1,3 +1,31 @@
+=====================================
+DroidX-UI 1.2 (Alpha Two) Changelogs
+=====================================
+
+- Merged with latest April r41 tag.
+- DroidX-UI switched with codename Hellfire.
+- Customize: Added reticker feature.
+- Implemented GameSpace support.
+- Gestures: Added three finger screenshots option.
+- Customize: Added volume rocker wake.
+- Customize: added Less boring heads up options.
+- Customize: More custom fonts are implemented.
+- Customize: More custom icon shapes are implemented.
+- Customize: Added alert slider toggle support.
+- Customize: added Network traffic indicator.
+- Customize: Added animations to quick settings tile.
+- Customize: Added Show ambient instead of lockscreen on wake gesture.
+- SystemUI: Added PowerShare Qs tile.
+- QS Panel: Added Sync tile.
+- SystemUI: Added USB tether tile.
+- SystemUI: Added caffeine QS tile.
+- Added a Toggle to force LTE_CA.
+
+NOTE- Some bug fixes and improvements are implemented into the source.
+
+
+
+
 ======================================
 DroidX-UI v1.0 (Alpha One) Changelogs
 ======================================
