@@ -1,4 +1,20 @@
 =====================================
+DroidX-UI 1.3 (BETA) Changelogs 
+=====================================
+- Merged with latest may patch 13_r43 tag.
+- Customize: Added quick settings panel animations.
+- DXUI: Added smartspace feature.
+- DXUI: Switched with different gapps variants, core or full gapps.
+- Added DroidX-UI exclusive wallpaper.
+- Launcher: introducing our droidx launcher with many features.
+- DXUI: added DroidX-UI version in settings.
+- DXUI: Switch settings toolbar to xdroid-oss layout.
+
+NOTE- Furthure some bug fixes and improvements in source.
+
+
+
+=====================================
 DroidX-UI 1.2 (Alpha Two) Changelogs
 =====================================
 
