@@ -3,6 +3,7 @@ DroidX-UI 1.3 (BETA) Changelogs
 =====================================
 - Merged with latest may patch 13_r43 tag.
 - Customize: Added quick settings panel animations.
+- Customize: Added gphoto spoof option in miscellaneous section.
 - DXUI: Added smartspace feature.
 - DXUI: Switched with different gapps variants, core or full gapps.
 - Added DroidX-UI exclusive wallpaper.
