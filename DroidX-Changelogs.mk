@@ -1,4 +1,18 @@
 =====================================
+DroidX-UI 1.5 (stable) Changelogs
+=====================================
+- Merged july patch with latest tag 13_r63.
+- Added DroidX-UI exclusive wallpaper.
+- Fixed wallpaper and styles crash from homescreen.
+- Added support for Parallel space feature.
+- Added UI implementation from Xdroid ROM.
+- Added aperture camera instead camera2.
+- Added more qs styles options.
+- Some bug fixes and improvements.
+
+
+
+=====================================
 DroidX-UI 1.3 (BETA) Changelogs 
 =====================================
 - Merged with latest may patch 13_r43 tag.
