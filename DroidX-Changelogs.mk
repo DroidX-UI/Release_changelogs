@@ -7,9 +7,18 @@ DroidX-UI 1.5 (stable) Changelogs
 - Added support for Parallel space feature.
 - Added UI implementation from Xdroid ROM.
 - Added aperture camera instead camera2.
+- Added partial screenshots option.
 - Added more qs styles options.
+- Added Data Switch Qs tile.
+- Added lockscreen clock customizations.
+- Redesigned Power Menu with blur implementation.
+- Added support for freeform window by default.
+- Added monochromatic monet theme style.
+- Added media player wave shimmering effect.
+- Added support for media explicit indicator.
 - Some bug fixes and improvements.
 
+• Thanks to Aditya Singh (Project Blaze) for suggesting wallpaper and styles missing colors fix.
 
 
 =====================================
