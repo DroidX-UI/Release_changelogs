@@ -1,3 +1,30 @@
+===========================
+DroidX-UI v1.5.1 Changelogs
+===========================
+Date: 09-08-2023
+===========================
+- Merged with latest august patch 13_r67 tag.
+- Switched to droidx codename "LimeTree".
+- Added Our Own Custom UI for Customizer designed by @WildWaze (DroidX Core Designer), implemented by Zirgom Haider (Droidx Core Member).
+- Redesigned Settings UI from DotOS (Thanks to them).
+- Added support for App lock.
+- Added A11 type Qs Panel by default.
+- Added BCR (Basic Call recorder) as default app to fix announcement in google dialer.
+- Added lockscreen shortcuts.
+- Added Droidx exclusive wallpaper to match the version.
+- Customizer: Added incall vibrations option.
+- Customizer: Added settings to change Qs tile shapes.
+- Customizer: Added window ignore secure flag.
+- Customizer: Added Wake on plug.
+- Customizer: Added toggle for Lockscreen Media Art.
+- Customizer: Added toggle for Double tap to sleep on statusbar.
+- Customizer: Added toggle for Double tap to sleep on lockscreen.
+- Customizer: Added option to allow using 4G icon instead LTE.
+- Customizer: Added Option to Display Data Disabled Indicator Icon.
+- Implemented Auto brightness option.
+- Added Our own customized recovery, Droidx recovery.
+
+
 =====================================
 DroidX-UI 1.5 (stable) Changelogs
 =====================================
