@@ -23,6 +23,12 @@ Date: 09-08-2023
 - Customizer: Added Option to Display Data Disabled Indicator Icon.
 - Implemented Auto brightness option.
 - Added Our own customized recovery, Droidx recovery.
+- Fixed crash related to developer option during animation scale changes.
+- Updated vanilla variant apps for better experience.
+- Added support for live display, works perfectly.
+- Added support for touch gestures.
+- Added support for Game Props, works by default no toggle needed.
+- Excluded cinematic wallpaper for now.
 
 
 =====================================
