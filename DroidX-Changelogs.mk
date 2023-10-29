@@ -1,4 +1,13 @@
 ============================
+DroidX-UI v1.6 Changelogs
+============================
+
+- Merged with latest October security patch.
+- Added more font options and icons.
+- Added some wifi and signal icon packs options.
+- Fixed some known issues and system improvements.
+
+============================
 DroidX-UI v1.5.3 Changelogs
 ============================
 
