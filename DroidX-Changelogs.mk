@@ -1,4 +1,12 @@
 ============================
+DroidX-UI v1.7 Changelogs
+============================
+
+- Merged with latest November security patch.
+- Fixed some bugs related with crashes in launcher and UI.
+- System improvements and some misc changes
+
+============================
 DroidX-UI v1.6 Changelogs
 ============================
 
