@@ -1,3 +1,34 @@
+=====================================
+DroidX-UI v2.0 (Alpha One) Changelogs
+=====================================
+- Initial DroidX-UI v2.0 based on Android 14 release.
+- Based on latest February security patch.
+- DXUI exclusive wallpaper added by default.
+- Added DroidX-UI Launcher (based on Launcher3 with customisations).
+- Added About UI based on A13 DXUI concept.
+- Three finger screenshots gesture is implemented.
+- Added omnijaw lockscreen customisations.
+- Added network traffic meter support.
+- Added support for disable ripple effect on lockscreen.
+- Added App Lock support.
+- Added App Clone support.
+- Double tap to sleep on status bar.
+- Double tap to sleep on lock screen.
+- Ambient music: pulse on new music tracks and Now Playing info.
+- configure lock screen media artwork blur level.
+- Allow to enable Lock screen Media Art.
+- Integrate Google Lens into Screenshot UI.
+- Add delete action chip intent into Screenshot UI.
+- Allow overriding volume panel location.
+- Add optional haptic feedback to volume panel. 
+- Make the volume dialog expandable.
+
+
+
+
+
+
+
 ============================
 DroidX-UI v1.7 Changelogs
 ============================
