@@ -1,4 +1,38 @@
 =====================================
+DroidX-UI v2.1 (Earth) Changelogs
+=====================================
+- DroidX v2.1 codename-Earth based on DXUI 2.0 (Android 14).
+- Merged with May security patch.
+- DXUI 2.0 is implemented within ROMS UI (Redesigned UI).
+- OTA updates support is added into rom.
+- DroidX exclusive wallpaper is added.
+- Added Battery style customisations.
+- Droidx Launcher in Vanilla builds, Pixel launcher in gapps build.
+- Added Network traffic indicator customisation.
+- Added support for playback control feature. 
+- Added toggle for Ripple effect on lockscreen.
+- Added toggle for Power menu on lockscreen feature. 
+- Added option for Hide Qs on secure lockscreen. 
+- Added option for Fingerprint authentication vibration. 
+- Added customisations related to monet. 
+- Added feature for ignore window secure flags.
+- Added feature for quickly disable heads up for all apps. 
+- Added option for annoying notifications. 
+- Added support for Android 11/14 Qs Panel. 
+- Added feature to show daily data usage. 
+- Added feature to Hide network traffic indicator if inactive. 
+- Added toggle for Mic and Camera privacy indicator. 
+- Added toggle for location Privacy indicator. 
+- Added toggle for Media projection privacy indicator. 
+- Added font, icon pack, signal style, wifi icon style, icon shape customisations. 
+- Added in call vibration options.
+- Added Advance restart feature.
+- Added support for Applock. 
+- Added support for Face Unlock feature. 
+
+
+
+=====================================
 DroidX-UI v2.0 (Alpha One) Changelogs
 =====================================
 - Initial DroidX-UI v2.0 based on Android 14 release.
