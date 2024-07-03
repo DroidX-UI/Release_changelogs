@@ -1,4 +1,22 @@
 =====================================
+DroidX-UI v2.1.1 (Earth) Changelogs
+=====================================
+- Added LiveDisplay
+- Fixed Double Tap to Sleep Gesture
+- Added Gamespace
+- Updated Launcher
+- Added Disable Battery Light Toggle
+- Added TouchGestures
+- Added HWkeys Settings for devices like: mido, skura etc
+- Added OmniJaws
+- Added LockScreen Clock in Vanilla
+- Fixed Hide Gesture Navigation
+- Disabled Rotation on Lockscreen
+- Fixed Cloned Apps
+- Added allow client to use VPN
+
+
+=====================================
 DroidX-UI v2.1 (Earth) Changelogs
 =====================================
 - DroidX v2.1 codename-Earth based on DXUI 2.0 (Android 14).
