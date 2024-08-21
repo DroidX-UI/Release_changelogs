@@ -1,3 +1,38 @@
+=====================
+Eris (2.2) Changelog:
+=====================
+#General
+• Integrated with the latest August Security Patch.
+• Refined user experience with bug fixes.
+• Enhanced overall system stability.
+• Applied various under-the-hood optimizations.
+
+#DXUI Lab
+• Introduced a status bar network traffic indicator.
+• Added customizable battery styles and indicators.
+• Expanded options for icon shapes, packs, fonts, and signal icons.
+• Enabled advanced Monet customization support.
+• Displayed data usage in the Quick Settings footer.
+• Added support for Advanced Restart functionality.
+• Option to hide Quick Settings on secure lockscreen.
+• Added a feature to ignore secure flag on windows.
+• Introduced a toggle for privacy indicators.
+• Enabled double-tap-to-sleep gesture.
+• Enhanced volume panel with additional features.
+• Integrated support for heads-up notifications.
+• Added toggle for fingerprint authentication vibration.
+• Introduced customization options for UDFPS.
+• Toggle available for fingerprint ripple effect.
+• Added spoofing features.
+
+#System
+• Introduced exclusive DXUI wallpapers.
+• Added Android 11 Qs Panel support.
+• Defaulted to Eris-based wallpaper for a cohesive look.
+• Resolved an issue where the battery icon would disappear in the status bar and lockscreen.
+• Implemented a volume panel layout inspired by Android 15.
+
+
 =====================================
 DroidX-UI v2.1.1 (Earth) Changelogs
 =====================================
