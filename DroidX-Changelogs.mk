@@ -1,3 +1,22 @@
+=================≈===
+Mars (2.3) Changelog:
+=====================
+* Merged Latest September Security patch.
+* Fixed crash of GameSpace while accessing it during playtime.
+* Added option to put volume panel at left side.
+* Fixed crash of keyboard in vanilla builds.
+* Fixed an issue where system freezes in some scenario.
+* Added anti flicker mode in live display & seperate tile.
+* Introduced reading mode tile.
+* Reintroduced pixel props spoofs.
+* Added udfps custom icons.
+* Fixed issue where applying different battery styles shows battery bar empty.
+* Added toggle for netflix high fps game spoofs.
+* Readded toggle for unlimited google photos spoof.
+* Added Qs tile label size settings.
+* Added QQS tile layout settings.
+
+
 =====================
 Eris (2.2) Changelog:
 =====================
