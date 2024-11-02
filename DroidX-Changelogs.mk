@@ -1,3 +1,9 @@
+=======================
+Europa (2.4) changelog:
+=======================
+* Merged latest October security patch.
+* improved system stability and minor bug fixes.
+
 =================≈===
 Mars (2.3) Changelog:
 =====================
