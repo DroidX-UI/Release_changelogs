@@ -1,3 +1,21 @@
+================================
+DroidX-UI v3.0 - Orion (Alpha)
+================================
+- DroidX-UI v3.0 based on Android 15.
+- Merged with latest android 15 Qpr1.
+- December security patch.
+- Brought back our signature UI implementation.
+- OTA updates are available for both vanilla and gapps variant.
+- Improved animations in several scenarios.
+- Added DXUI Lab (under wip).
+- Added icons packs, fonts and signal icon customisations.
+- Added support for touch gestures.
+- Added theming customisations.
+- Added private space feature.
+- Added Circle to search feature.
+
+
+
 =======================
 Europa (2.4) changelog:
 =======================
