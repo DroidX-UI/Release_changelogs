@@ -1,4 +1,39 @@
 ================================
+DroidX-UI v3.0.2 - Orion (Stable)
+================================
+• Merged latest may security patch.
+• Some underhood changes to maintain stability and improvement across the system.
+• Added lockscreen widgets customisation.
+ • Added now bar and peak display custom feature.
+ • Added support for the lockscreen pulse feature.
+ • Added more lockscreen clock styles.
+ • Added AOD styles.
+ • Added battery styles customisations.
+ • Added custom UDFPS icons.
+ • Added toggle for import wifi standard icon.
+ • Added three finger screenshot option.
+ • Added status bar network traffic indicator.
+ • Added toggle for ripple effect animation on/off.
+ • Added icon packs, fonts, icon shapes customisations.
+ • Implemented background process killer.
+ • Enabled clone app feature and unlocked all apps available for clone.
+ • Allow disabling ripple effect on unlock.
+ • Added App-Lock feature.
+ • Added pure black theme feature.
+ • Allow to suppress notifications sound/vibration if screen is ON.
+ • Added window ignore secure flah feature.
+ • Allow Phone ringtone setting for Multi SIM device.
+ • Add back increasing ring feature.
+ • Allow support per-app volume.
+ • Add setting to allow/disallow interacting with quick settings on secure lockscreen.
+ • Add incall vibration options.
+ • Hide power menu on secure lockscreen.
+ • Allow disabling of screenshot shutter sound.
+ • OTA updates are available for both vanilla and gapps variant.
+ • Improved animations across the UI.
+ • Circle to search is available.
+
+================================
 DroidX-UI v3.0 - Orion (Alpha)
 ================================
 - DroidX-UI v3.0 based on Android 15.
